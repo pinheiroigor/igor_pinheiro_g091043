@@ -1,0 +1,72 @@
+HTML  
+Criado por Tim Berners-Lee, em 1991 no CERN ( European Council for Nuclear Research ) Suíça, HTML ( HyperText Markup Language – Linguagem de Marcação Hipertexto) tem como componente principal a base web, assim interagindo com o desenvolvimento de websites incluindo neles imagens, vídeos e conteúdos introduzidos por hipertextos usando o CSS e JavaScript, apresentado e realizado através de links que estão presentes nos sites. 
+
+Evolução dos HTML teve início as atualizações do mesmo, tendo melhorias a cada evolução do HTML. 
+
+HTML; 
+
+HTML+;  
+
+HTML 2.0;  
+
+HTML 3.0; 
+
+HTML 3.2;  
+
+HTML 4.0;  
+
+HTML 4.01;  
+
+Entre os anos de 1993 e 1995, surgiram as versões de HTML+, HTML 2.0, HTML 3.0. onde nelas foram feitas mudanças para variar e enriquecer as linguagens. 
+
+Em 1997 o grupo W3C que tem como objetivo desenvolver padrões para diretrizes na web, trabalhou na versão 3.2 que inclui os os elementos table e applet, acrescentando marcas subscritas e textos ao redor de imagens. 
+
+Em 1999 a W3C publicou a variação da versão 4.0/4.1 que daria iniciação a versão HTML 5. 
+
+ 
+
+HTML 5 
+
+HTML 5 é a última versão do HTML, sendo ela umas das principais linguagens de marcação da web. 
+
+Tem como objetivo melhoras as apresentações representadas na web, com as modificações e algumas funcionalidades: apresentação de vídeo e Canvas.  
+
+Em 2004 a WHATWG (Web Hypertex Application Tecnology Working Group) em parceria com a W3C, se juntaram pra o desenvolvimento do HTML 5 mas continuando cada uma com uma parte em suas especificações. Em 2001 foram definidos que a W3C seria apenas definida com as especificações, e a WHATWG com o desenvolvimento geral. 
+
+ 
+
+Navegador Web 
+
+Os navegadores são programas criados para navegar na internet web, se tornando possível o acesso a sites com o que procura, utilizando o HTML., 
+
+Chrome: Sendo um dos navegadores mais populares atualmente, utilizando o HTML 5  
+
+O Chrome, representado pela google, obtém um ótimo desempenho em relação a gráficos e animações com áudio mp4 
+
+Safari: Sendo um dos navegadores mais utilizados atualmente pelos usuários Apple, utilizando HTML5  
+
+Safari, representado pela Apple, tem um ótimo suporte para recursos multimidia 
+
+Fire Fox: utilizando HTML 5 
+
+Oferece chamada de vídeo e áudios em APIS. 
+
+ 
+
+MOTORES DE RENDERIZAÇÃO 
+
+Os motores de renderização tem diferentes processos de renderização, sendo cada programa de um jeito específico no desempenho do sistema operacional. Assim cada navegador utiliza um renderizado próprio, mantendo o conceito do HTML 5. Sendo eles: 
+
+Blink (Chrome e Opera): Original do WebKit,, é um software desenvolvido pela google, com desempenho rápido e eficaz, adotando as tecnologias atuais.  
+
+WebKit (Safari): Implementado no navegador safari Apple. 
+
+Gekco (FireFox): Desenvolvido pela Mozilla, projetado para as tecnologias web modernas, e tendo uma flexibilidade maior nas configurações do mesmo e personalizadas. 
+
+BIBLIOGRAFIA. 
+
+CONTEUDOS EM SALA DE AULA 
+https://www.devmedia.com.br/o-que-e-o-html5/25820
+https://kenzie.com.br/blog/html5/#:~:text=HTML5%20é%20a%20quinta%20e,%2C%20áudio%2C%20vídeos%20e%20etc. 
+https://www.i-tecnico.pt/o-que-sao-navegadores/#:~:text=Os%20navegadores%2C%20ou%20em%20inglês%20browsers%2C%20são%20programas%20concebidos%20para,ou%20em%20inglês%20Web%20Servers). 
+https://www.i-tecnico.pt/o-que-sao-navegadores/#:~:text=Os%20navegadores%2C%20ou%20em%20inglês%20browsers%2C%20são%20programas%20concebidos%20para,ou%20em%20inglês%20Web%20Servers). 
