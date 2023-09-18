@@ -1,0 +1,47 @@
+As tags HTML são as bases fundamentais para a sustentação da estrutura e o conteudo de todas as paginas da internet no ecossistema da criação web.
+Elas são essenciais para formatar, apresentar informações, organizar, permitindo que os desenvolvedores web consigam alterar a aparencia e o comportamento das paginas.
+
+<!DOCTYPE>: Declaração do tipo de documento.
+<html>: Elemento raiz que envolve todo o conteúdo HTML.
+<head>: Cabeçalho do documento contendo metadados.
+<title>: Define o título da página exibido na aba do navegador.
+<meta>: Define metadados como codificação de caracteres e descrições.
+<link>: Vincula recursos externos, como folhas de estilo.
+<style>: Define estilos CSS dentro do documento HTML.
+<script>: Vincula ou incorpora scripts, como JavaScript.
+<body>: Corpo do documento contendo o conteúdo visível da página.
+<header>: Cabeçalho da página ou seção.
+<nav>: Define links de navegação.
+<main>: Conteúdo principal da página.
+<article>: Conteúdo independente, como postagens de blog.
+<section>: Define seções de conteúdo.
+<aside>: Conteúdo relacionado ou complementar.
+<footer>: Rodapé da página ou seção.
+<a>: Cria um link para outra página ou recurso.
+<img>: Insere uma imagem na página.
+<ul>: Cria uma lista não ordenada.
+<li>: Define um item de lista.
+<ol>: Cria uma lista ordenada.
+<li>: Define um item de lista.
+<p>: Parágrafo de texto.
+<div>: Bloco genérico usado para agrupar elementos.
+<span>: Inline genérico usado para estilização.
+<br>: Quebra de linha.
+<hr>: Linha horizontal.
+<form>: Cria um formulário para entrada de dados.
+<input>: Campo de entrada.
+<textarea>: Campo de texto multilinha.
+<select>: Lista de seleção.
+<button>: Botão interativo.
+<table>: Cria uma tabela.
+<tr>: Linha da tabela.
+<td>: Célula de dados.
+<th>: Célula de cabeçalho de tabela.
+<iframe>: Incorpora uma página web dentro de outra.
+<audio>: Reproduz áudio na página.
+<video>: Reproduz vídeo na página.
+<canvas>: Área para desenho e renderização via JavaScript.
+<svg>: Cria gráficos vetoriais escaláveis.
+<input type="...": Diferentes tipos de entrada, como texto, senha, radio, checkbox, etc.
+
+https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-5-atributos-elementos
